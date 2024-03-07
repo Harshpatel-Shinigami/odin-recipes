@@ -19,10 +19,7 @@ h1{
     align-items: center;
     margin:auto;
 }
-img{
-    width:fit-content;
-    height:auto;
-}
+
 a {
     text-decoration: none;
 }
