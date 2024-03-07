@@ -1,0 +1,49 @@
+* {
+    font-family: "Oswald", sans-serif;
+    font-style: normal;
+    color:antiquewhite;
+}
+h1{
+    color: #eff1ed;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #ebf2fa;
+}
+.main {
+    position: center;
+    background-color: #05668d;
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:auto;
+}
+img{
+    width:fit-content;
+    height:auto;
+}
+a {
+    text-decoration: none;
+}
+div {
+    border: 2px #373d20 solid;
+}
+h2 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #ebf2fa;
+}
+.Ingredients {
+    margin-bottom: 10px;
+    font-size: large;
+}
+.steps {
+    margin-bottom: 10px;
+    font-size: large;
+    padding: 10px;
+}
+p {
+    font-size: large;
+    padding: 10px;
+}
